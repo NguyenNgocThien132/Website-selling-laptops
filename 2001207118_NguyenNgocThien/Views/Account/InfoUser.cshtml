@@ -1,0 +1,75 @@
+﻿@model _2001207118_NguyenNgocThien.Identity.AppUser
+@{
+    ViewBag.Title = "InfoUser";
+    Layout = "~/Views/Shared/_LayoutPage3.cshtml";
+}
+
+<div class="row w-75 mb-3 mt-3 mx-auto">
+    <div style="text-align: center">
+        <h1 class="text-uppercase text-success" style="width:700px;margin: 0 auto; margin-bottom: 20px">Thông tin tài khoản</h1>
+    </div>
+    <div class="col-4 ">
+        <div class="d-flex justify-content-center flex-column align-items-center">
+            @if (ViewBag.user.Image != null)
+            {
+                <div>
+                    <img style="border-radius: 50%; border: 1px solid black; width:200px ;height: 200px" src="~/img/User/@Model.Image.Trim()" alt="Alternate Text" />
+                </div>
+            }
+            else
+            {
+                <div>
+                    <img style="border-radius: 50%; border: 1px solid black; width:200px ;height: 200px" src="~/img/User/cyno.png" alt="Alternate Text" />
+                </div>
+            }
+            <div>
+                <div class="d-flex justify-content-center mt-3">
+                    <h3 style="font-weight: bold; font-size: 30px">@ViewBag.user.UserName</h3>
+                </div>
+                <a class="btn btn-primary w-100" href="/account/EditProfile?UserName=@ViewBag.user.UserName">Edit profile</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-8 mt-4" style="font-size: 25px">
+        @if (ViewBag.user.Email == null)
+        {
+            <p class="mb-4"><b>Email:</b> chưa cập nhập</p>
+        }
+        else
+        {
+            <p class="mb-4"><b>Email:</b> @ViewBag.user.Email</p>
+        }
+        @if (ViewBag.user.BirthDay == null)
+        {
+            <p class="mb-4"><b>Ngày sinh:</b> chưa cập nhập</p>
+        }
+        else
+        {
+            <p class="mb-4"><b>Ngày sinh:</b> @ViewBag.user.BirthDay</p>
+        }
+        @if (ViewBag.user.PhoneNumber == null)
+        {
+            <p class="mb-4"><b>Số điện thoại:</b> chưa cập nhập</p>
+        }
+        else
+        {
+            <p class="mb-4"><b>Số điện thoại:</b> @ViewBag.user.PhoneNumber</p>
+        }
+        @if (ViewBag.user.City == null)
+        {
+            <p class="mb-4"><b>Thành phố:</b> chưa cập nhập</p>
+        }
+        else
+        {
+            <p class="mb-4"><b>Thành phố:</b> @ViewBag.user.City</p>
+        }
+        @if (ViewBag.user.Address == null)
+        {
+            <p><b>Địa chỉ:</b> chưa cập nhập</p>
+        }
+        else
+        {
+            <p><b>Địa chỉ:</b> @ViewBag.user.Address</p>
+        }
+    </div>
+</div>

@@ -1,0 +1,56 @@
+﻿@model _2001207118_NguyenNgocThien.Identity.AppUser
+@{
+    ViewBag.Title = "EditProfile";
+    Layout = "~/Views/Shared/_LayoutPage3.cshtml";
+}
+
+<form action="/account/EditProfile?UserName=@ViewBag.user.UserName" method="post" enctype="multipart/form-data">
+    <label for="UserName">Tên Tài Khoản</label>
+    <input disabled class="form-control" type="text" name="UserName" value="@ViewBag.user.UserName" />
+    <label for="Email">Email</label>
+    <input class="form-control" type="email" name="Email" value="@ViewBag.user.Email" />
+    <label for="BirthDay">Ngày sinh</label>
+    <input class="form-control" type="date" name="BirthDay" />
+    <label for="PhoneNumber">Số điện thoại</label>
+    <input class="form-control" type="number" name="PhoneNumber" />
+    <label for="City">Thành phố</label>
+    <input class="form-control" type="text" name="City" />
+    <label for="Address">Địa chỉ</label>
+    <input class="form-control" type="text" name="Address" />
+
+    <div class="row">
+        @if (ViewBag.user.Image != null)
+        {
+
+            <div class="col-6">
+                <label for="Image">Ảnh đại diện</label>
+                <input class="form-control" type="text" name="Image" value="@ViewBag.user.Image" />
+            </div>
+        }
+        @if (ViewBag.user.Image != null)
+        {
+            <div class="col-6">
+                <label for="Image">Ảnh đại diện</label>
+                <input class="form-control" type="file" name="Image" />
+            </div>
+        }
+        else
+        {
+            <div class="col-12 mt-3">
+                <label for="Image">Ảnh đại diện</label>
+                <input class="form-control" type="file" name="Image" />
+            </div>
+        }
+    </div>
+    @if (ViewBag.user.Image != null)
+    {
+        <div>
+            <img style="width: 150px; height: 150px; border: 2px solid lightblue; border-radius: 10px; margin-top: 15px" src="~/img/User/@ViewBag.user.Image.Trim()" alt="Alternate Text" />
+        </div>
+    }
+    <div class="d-flex justify-content-start">
+        <button type="submit" class="btn btn-success mt-3 mx-2">Save</button>
+        <a href="/home/index" class="btn btn-danger mt-3 mx-2">Back</a>
+    </div>
+</form>
+

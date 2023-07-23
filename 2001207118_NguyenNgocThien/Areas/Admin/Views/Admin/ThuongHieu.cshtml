@@ -1,0 +1,81 @@
+﻿@model List<_2001207118_NguyenNgocThien.Models.ThuongHieu>
+@{
+    ViewBag.Title = "ThuongHieu";
+    Layout = "~/Areas/Admin/Views/Shared/AdminLayoutPage1.cshtml";
+}
+
+<button class="btn btn-primary" type="button" id="btnGetThuongHieu">Lấy Thương Hiệu</button>
+<a class="btn btn-primary" href="/admin/admin/Create_ThuongHieu">Thêm thương hiệu</a>
+<table class="table brandTable">
+    <tr>
+        <td>ID Thương Hiệu</td>
+        <td>Tên Thương hiệu</td>
+        <td></td>
+    </tr>
+    @*@foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.ID</td>
+                <td>@item.NSX</td>
+                <td class="d-flex justify-content-end">
+                    <a class="btn btn-danger mx-1" href="/admin/admin/Delete_ThuongHieu?id=@item.ID">Xóa</a>
+                </td>
+            </tr>
+        }*@
+</table>
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">View Thương Hiệu</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <table class="table">
+                    <tr>
+                        <td>Id thương hiệu</td>
+                        <td class="text-danger"><span id="BrandIDSpan"></span></td>
+                    </tr>
+                    <tr>
+                        <td>Tên thương hiệu</td>
+                        <td class="text-danger"><span id="BrandNameSpan"></span></td>
+                    </tr>
+                </table>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script>
+    $('#btnGetThuongHieu').click(() => {
+        $.ajax({
+            type: 'GET',
+            url: '/api/ThuongHieu',
+            success: (responses) => {
+                for (var i = 0; i <= responses.length; i++) {
+                    const thRows = responses[i];
+                    const strHTML = '<tr><td>' + thRows.ID + '</td><td>' + thRows.NSX + '</td><td><button type="button" class="btn btn-primary btn-ViewBrand" data-bs-toggle="modal" data-bs-target="#exampleModal" data-brandid="' + thRows.ID + '" >View</button ></td></tr>';
+                    $('.brandTable').append(strHTML);
+                }
+            },
+            error: (err) => { console.log(err); }
+        });
+    });
+    $(document).on('Click', '.btn-ViewBrand', (event) => {
+        const brid = $(event.target).attr('data-brandid');
+        $.ajax({
+            type: 'GET',
+            url: `/api/ThuongHieu?id=${brid}`,
+            success: (responses) => {
+                $('#BrandIDSpan').html(responses.ID);
+                $('#BrandNameSpan').html(responses.NSX);
+            },
+            error: (err) => { console.log(err); }
+        });
+    });
+</script>

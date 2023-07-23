@@ -1,0 +1,38 @@
+﻿@model _2001207118_NguyenNgocThien.Identity.AppUser
+@{
+    ViewBag.Title = "Xóa Tài Khoản";
+    Layout = "~/Areas/Admin/Views/Shared/AdminLayoutPage1.cshtml";
+}
+
+<form action="/admin/admin/deleteuser?name=@ViewBag.user.UserName" method="post">
+    <div class="row">
+        <div class="col-6">
+            @Html.LabelFor(row => row.UserName, "Tên Tài Khoản")
+            <input class="form-control" type="text" name="UserName" value="@Model.UserName" />
+        </div>
+        <div class="col-6">
+            @Html.LabelFor(row => row.Email)
+            <input class="form-control" type="text" name="Email" value="@Model.Email" />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-6">
+            @Html.LabelFor(row => row.PhoneNumber, "Số Điện thoại")
+            <input class="form-control" type="number" name="PhoneNumber" value="@Model.PhoneNumber" />
+        </div>
+        <div class="col-6">
+            @Html.LabelFor(row => row.City, "Thành Phố")
+            <input class="form-control" type="text" name="City" value="@Model.City" />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12">
+            @Html.LabelFor(row => row.Address, "Địa Chỉ");
+            <input class="form-control" type="text" name="Address" value="@Model.Address" />
+        </div>
+    </div>
+    <div class="d-flex justify-content-center">
+        <a style="width: 100px" class="btn btn-primary mt-3 mb-3 mx-2" href="/admin/admin/quanlytaikhoan">Back</a>
+        <button style="width: 100px" class="btn btn-danger mt-3 mb-3">Delete</button>
+    </div>
+</form>

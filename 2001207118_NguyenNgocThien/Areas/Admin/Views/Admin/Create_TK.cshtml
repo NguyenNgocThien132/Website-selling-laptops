@@ -1,0 +1,40 @@
+﻿@model _2001207118_NguyenNgocThien.ViewModel.RegisterVM
+@{ ViewBag.Title = "Tạo tài khoản";
+    Layout = "~/Areas/Admin/Views/Shared/AdminLayoutPage1.cshtml"; }
+
+@using (Html.BeginForm("Create_TK", "Admin", FormMethod.Post))
+{
+<div class="row w-25 mx-auto">
+    <div class="col-md-12">
+        @Html.LabelFor(temp => temp.Username, "Tài khoản")
+        @Html.TextBoxFor(temp => temp.Username, new { placeholder = "Username", @class = "form-control mt-2 mb-2" })
+        @Html.ValidationMessageFor(temp => temp.Username)
+    </div>
+    <div class="col-md-12">
+        @Html.LabelFor(temp => temp.Email)
+        @Html.TextBoxFor(temp => temp.Email, new { placeholder = "Email", @class = "form-control mt-2 mb-2" })
+        @Html.ValidationMessageFor(temp => temp.Email)
+    </div>
+    <div class="col-md-12">
+        @Html.LabelFor(temp => temp.Password, "Mật khẩu")
+        @Html.PasswordFor(temp => temp.Password, new { placeholder = "Password", @class = "form-control mt-2 mb-2" })
+        @Html.ValidationMessageFor(temp => temp.Password)
+    </div>
+    <div class="col-md-12">
+        @Html.LabelFor(temp => temp.ConfirmPassword, "Xác nhận mật khẩu ")
+        @Html.PasswordFor(temp => temp.ConfirmPassword, new { placeholder = "ConfirmPassword", @class = "form-control mt-2 mb-2" })
+        @Html.ValidationMessageFor(temp => temp.ConfirmPassword)
+    </div>
+
+    <div class="col-md-12 d-flex justify-content-center">
+        <button type="submit" class="btn btn-dark mt-3 mb-3">Tạo tài khoản</button>
+    </div>
+</div>}
+
+
+
+<div class="d-flex justify-content-center">
+    <a style="width: 100px" class="btn btn-danger mt-3 mb-3" href="/admin/admin/quanlytaikhoan">Back</a>
+</div>
+
+

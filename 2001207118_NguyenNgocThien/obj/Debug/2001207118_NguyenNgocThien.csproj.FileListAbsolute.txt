@@ -1,0 +1,507 @@
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\2001207118_NguyenNgocThien.dll.config
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\2001207118_NguyenNgocThien.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\2001207118_NguyenNgocThien.pdb
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\roslyn\csc.exe
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\roslyn\csc.exe.config
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\roslyn\csc.rsp
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\roslyn\csi.exe
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\roslyn\csi.exe.config
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\roslyn\csi.rsp
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\roslyn\Microsoft.Managed.Core.targets
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\roslyn\System.AppContext.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\roslyn\System.Collections.Immutable.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\roslyn\System.Console.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\roslyn\System.Globalization.Calendars.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\roslyn\System.IO.Compression.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\roslyn\System.IO.FileSystem.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\roslyn\System.Net.Http.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\roslyn\System.Net.Sockets.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\roslyn\System.Reflection.Metadata.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\roslyn\System.ValueTuple.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\roslyn\System.Xml.XmlDocument.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\roslyn\System.Xml.XPath.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\roslyn\vbc.exe
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\roslyn\vbc.exe.config
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\roslyn\vbc.rsp
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\roslyn\VBCSCompiler.exe
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\roslyn\VBCSCompiler.exe.config
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\EntityFramework.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\EntityFramework.SqlServer.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\Microsoft.AspNet.Identity.Core.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\Microsoft.Owin.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\Microsoft.Owin.Security.Cookies.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\Microsoft.Owin.Security.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\Microsoft.Owin.Security.OAuth.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\Microsoft.Web.Infrastructure.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\Newtonsoft.Json.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\Owin.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\System.Web.Helpers.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\System.Web.Mvc.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\System.Web.Razor.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\System.Web.Webpages.Deployment.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\System.Web.Webpages.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\System.Web.Webpages.Razor.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\EntityFramework.xml
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\EntityFramework.SqlServer.xml
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\Microsoft.AspNet.Identity.Core.xml
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\Microsoft.Owin.xml
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\Microsoft.Owin.Security.xml
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\Microsoft.Owin.Security.Cookies.xml
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\Microsoft.Owin.Security.OAuth.xml
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\Newtonsoft.Json.xml
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\System.Web.Razor.xml
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\System.Web.Webpages.xml
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\System.Web.Webpages.Deployment.xml
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\System.Web.Webpages.Razor.xml
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\System.Web.Helpers.xml
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\System.Web.Mvc.xml
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\obj\Debug\_2001207118_NguyenNgocThien.IdentityMigration.init.resources
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\obj\Debug\_2001207118_NguyenNgocThien.Migrations.InitialCreate.resources
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\obj\Debug\_2001207118_NguyenNgocThien.Migrations.p.resources
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\obj\Debug\2001207118_NguyenNgocThien.csproj.GenerateResource.cache
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\obj\Debug\2001207118_NguyenNgocThien.csproj.CoreCompileInputs.cache
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\obj\Debug\2001207118_NguyenNgocThien.csproj.CopyComplete
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\obj\Debug\2001207118_NguyenNgocThien.dll
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\obj\Debug\2001207118_NguyenNgocThien.pdb
+D:\năm 3 - HK1\LapTrinhWeb\2001207118_NguyenNgocThien_WebBanMayTinh\2001207118_NguyenNgocThien\2001207118_NguyenNgocThien\obj\Debug\2001207118_NguyenNgocThien.csproj.AssemblyReference.cache
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\2001207118_NguyenNgocThien.dll.config
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\2001207118_NguyenNgocThien.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\2001207118_NguyenNgocThien.pdb
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\csc.exe
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\csc.exe.config
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\csc.rsp
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\csi.exe
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\csi.exe.config
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\csi.rsp
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\Microsoft.Managed.Core.targets
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\System.AppContext.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\System.Collections.Immutable.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\System.Console.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\System.Globalization.Calendars.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\System.IO.Compression.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\System.IO.FileSystem.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\System.Net.Http.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\System.Net.Sockets.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\System.Reflection.Metadata.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\System.ValueTuple.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\System.Xml.XmlDocument.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\System.Xml.XPath.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\vbc.exe
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\vbc.exe.config
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\vbc.rsp
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\VBCSCompiler.exe
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\VBCSCompiler.exe.config
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\EntityFramework.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\EntityFramework.SqlServer.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.AspNet.Identity.Core.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.AspNetCore.Http.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.Extensions.ObjectPool.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.Extensions.Options.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.Extensions.Primitives.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.Net.Http.Headers.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.Owin.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.Owin.Security.Cookies.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.Owin.Security.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.Owin.Security.OAuth.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.Web.Infrastructure.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Newtonsoft.Json.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Owin.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Buffers.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.ComponentModel.Annotations.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Memory.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Net.Http.Formatting.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Numerics.Vectors.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Text.Encodings.Web.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Web.Helpers.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Web.Http.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Web.Http.WebHost.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Web.Mvc.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Web.Razor.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Web.Webpages.Deployment.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Web.Webpages.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Web.Webpages.Razor.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\EntityFramework.xml
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\EntityFramework.SqlServer.xml
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.AspNet.Identity.Core.xml
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.AspNetCore.Http.xml
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.Extensions.ObjectPool.xml
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.Extensions.Options.xml
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.Extensions.Primitives.xml
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.Net.Http.Headers.xml
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.Owin.xml
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.Owin.Security.xml
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.Owin.Security.Cookies.xml
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.Owin.Security.OAuth.xml
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Newtonsoft.Json.xml
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Buffers.xml
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Memory.xml
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Net.Http.Formatting.xml
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Numerics.Vectors.xml
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Text.Encodings.Web.xml
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Web.Http.xml
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Web.Http.WebHost.xml
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Web.Razor.xml
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Web.Webpages.xml
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Web.Webpages.Deployment.xml
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Web.Webpages.Razor.xml
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Web.Helpers.xml
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Web.Mvc.xml
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\obj\Debug\_2001207118_NguyenNgocThien.IdentityMigration.init.resources
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\obj\Debug\_2001207118_NguyenNgocThien.IdentityMigration.add.resources
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\obj\Debug\_2001207118_NguyenNgocThien.IdentityMigration.addImage.resources
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\obj\Debug\_2001207118_NguyenNgocThien.Migrations.InitialCreate.resources
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\obj\Debug\_2001207118_NguyenNgocThien.Migrations.p.resources
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\obj\Debug\2001207118_NguyenNgocThien.csproj.GenerateResource.cache
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\obj\Debug\2001207118_NguyenNgocThien.csproj.CoreCompileInputs.cache
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\obj\Debug\2001207118_NguyenNgocThien.csproj.CopyComplete
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\obj\Debug\2001207118_NguyenNgocThien.dll
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\obj\Debug\2001207118_NguyenNgocThien.pdb
+D:\năm 3 - HK1\LapTrinhWeb\LapTrinhWeb-master\2001207118_NguyenNgocThien\obj\Debug\2001207118_NguyenNgocThien.csproj.AssemblyReference.cache
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\2001207118_NguyenNgocThien.dll.config
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\2001207118_NguyenNgocThien.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\2001207118_NguyenNgocThien.pdb
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\csc.exe
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\csc.exe.config
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\csc.rsp
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\csi.exe
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\csi.exe.config
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\csi.rsp
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\System.AppContext.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\System.Console.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\System.IO.Compression.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\System.Net.Http.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\System.Net.Sockets.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\System.ValueTuple.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\System.Xml.XPath.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\vbc.exe
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\vbc.exe.config
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\vbc.rsp
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\VBCSCompiler.exe
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\EntityFramework.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\EntityFramework.SqlServer.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.Extensions.Options.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.Owin.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.Owin.Security.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Newtonsoft.Json.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Owin.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Buffers.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.ComponentModel.Annotations.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Memory.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Net.Http.Formatting.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Numerics.Vectors.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Text.Encodings.Web.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Web.Helpers.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Web.Http.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Web.Http.WebHost.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Web.Mvc.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Web.Razor.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Web.Webpages.Deployment.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Web.Webpages.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Web.Webpages.Razor.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\EntityFramework.xml
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\EntityFramework.SqlServer.xml
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.Extensions.Options.xml
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.Owin.xml
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.Owin.Security.xml
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Newtonsoft.Json.xml
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Buffers.xml
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Memory.xml
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Net.Http.Formatting.xml
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Numerics.Vectors.xml
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Text.Encodings.Web.xml
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Web.Http.xml
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Web.Http.WebHost.xml
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Web.Razor.xml
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Web.Webpages.xml
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Web.Webpages.Deployment.xml
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Web.Webpages.Razor.xml
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Web.Helpers.xml
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\System.Web.Mvc.xml
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\obj\Debug\_2001207118_NguyenNgocThien.IdentityMigration.init.resources
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\obj\Debug\_2001207118_NguyenNgocThien.IdentityMigration.add.resources
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\obj\Debug\_2001207118_NguyenNgocThien.IdentityMigration.addImage.resources
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\obj\Debug\_2001207118_NguyenNgocThien.Migrations.InitialCreate.resources
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\obj\Debug\_2001207118_NguyenNgocThien.Migrations.p.resources
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\obj\Debug\2001207118_NguyenNgocThien.csproj.GenerateResource.cache
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\obj\Debug\2001207118_NguyenNgocThien.csproj.CoreCompileInputs.cache
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\obj\Debug\2001207118_NguyenNgocThien.csproj.CopyComplete
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\obj\Debug\2001207118_NguyenNgocThien.dll
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\obj\Debug\2001207118_NguyenNgocThien.pdb
+C:\Users\thien\OneDrive\Desktop\LapTrinhWeb-master\2001207118_NguyenNgocThien\obj\Debug\2001207118_NguyenNgocThien.csproj.AssemblyReference.cache
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\2001207118_NguyenNgocThien.dll.config
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\2001207118_NguyenNgocThien.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\2001207118_NguyenNgocThien.pdb
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\roslyn\csc.exe
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\roslyn\csc.exe.config
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\roslyn\csc.rsp
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\roslyn\csi.exe
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\roslyn\csi.exe.config
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\roslyn\csi.rsp
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\roslyn\System.AppContext.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\roslyn\System.Collections.Immutable.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\roslyn\System.Console.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\roslyn\System.Globalization.Calendars.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\roslyn\System.IO.Compression.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\roslyn\System.IO.FileSystem.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\roslyn\System.Net.Http.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\roslyn\System.Net.Sockets.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\roslyn\System.Reflection.Metadata.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\roslyn\System.ValueTuple.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\roslyn\System.Xml.XmlDocument.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\roslyn\System.Xml.XPath.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\roslyn\vbc.exe
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\roslyn\vbc.exe.config
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\roslyn\vbc.rsp
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\roslyn\VBCSCompiler.exe
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\roslyn\VBCSCompiler.exe.config
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\EntityFramework.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\EntityFramework.SqlServer.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\Microsoft.AspNet.Identity.Core.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\Microsoft.AspNetCore.Http.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\Microsoft.Extensions.ObjectPool.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\Microsoft.Extensions.Options.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\Microsoft.Extensions.Primitives.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\Microsoft.Net.Http.Headers.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\Microsoft.Owin.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\Microsoft.Owin.Security.Cookies.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\Microsoft.Owin.Security.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\Microsoft.Owin.Security.OAuth.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\Microsoft.Web.Infrastructure.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\Newtonsoft.Json.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\Owin.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\System.Buffers.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\System.ComponentModel.Annotations.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\System.Memory.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\System.Net.Http.Formatting.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\System.Numerics.Vectors.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\System.Text.Encodings.Web.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\System.Web.Helpers.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\System.Web.Http.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\System.Web.Http.WebHost.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\System.Web.Mvc.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\System.Web.Razor.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\System.Web.Webpages.Deployment.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\System.Web.Webpages.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\System.Web.Webpages.Razor.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\EntityFramework.xml
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\EntityFramework.SqlServer.xml
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\Microsoft.AspNet.Identity.Core.xml
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\Microsoft.AspNetCore.Http.xml
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\Microsoft.Extensions.ObjectPool.xml
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\Microsoft.Extensions.Options.xml
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\Microsoft.Extensions.Primitives.xml
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\Microsoft.Net.Http.Headers.xml
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\Microsoft.Owin.xml
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\Microsoft.Owin.Security.xml
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\Microsoft.Owin.Security.Cookies.xml
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\Microsoft.Owin.Security.OAuth.xml
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\Newtonsoft.Json.xml
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\System.Buffers.xml
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\System.Memory.xml
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\System.Net.Http.Formatting.xml
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\System.Numerics.Vectors.xml
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\System.Text.Encodings.Web.xml
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\System.Web.Http.xml
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\System.Web.Http.WebHost.xml
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\System.Web.Razor.xml
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\System.Web.Webpages.xml
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\System.Web.Webpages.Deployment.xml
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\System.Web.Webpages.Razor.xml
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\System.Web.Helpers.xml
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\System.Web.Mvc.xml
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\obj\Debug\2001207118_NguyenNgocThien.csproj.AssemblyReference.cache
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\obj\Debug\_2001207118_NguyenNgocThien.IdentityMigration.init.resources
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\obj\Debug\_2001207118_NguyenNgocThien.IdentityMigration.add.resources
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\obj\Debug\_2001207118_NguyenNgocThien.IdentityMigration.addImage.resources
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\obj\Debug\_2001207118_NguyenNgocThien.Migrations.InitialCreate.resources
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\obj\Debug\_2001207118_NguyenNgocThien.Migrations.p.resources
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\obj\Debug\2001207118_NguyenNgocThien.csproj.GenerateResource.cache
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\obj\Debug\2001207118_NguyenNgocThien.csproj.CoreCompileInputs.cache
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\obj\Debug\2001207118_NguyenNgocThien.csproj.CopyComplete
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\obj\Debug\2001207118_NguyenNgocThien.dll
+D:\DanhSachDoAnNam3\2001207118_Doan_LTWeb\2001207118_NguyenNgocThien_Doan_LTWeb\2001207118_NguyenNgocThien\obj\Debug\2001207118_NguyenNgocThien.pdb
